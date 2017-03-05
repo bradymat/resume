@@ -567,7 +567,6 @@ h1.navbar-brand {
 
 .welcome-message p {
     font-size: 20px;
-    margin-left: 135px;
 }
 
 /*=================================================================
@@ -636,6 +635,13 @@ h1.navbar-brand {
     overflow: hidden;
     position: relative;
     width: 32%;
+}
+
+.about-img {
+    margin: 0 10% 1% 0;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
 }
 
 .portfolio-item {
