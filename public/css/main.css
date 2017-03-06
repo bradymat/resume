@@ -292,6 +292,11 @@ h1.navbar-brand {
     color: #fff;
     font-size: 15px;
     text-transform: uppercase;
+    transition: color 0.8s ease;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #9A12B3;
 }
 
 
