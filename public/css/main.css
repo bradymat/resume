@@ -487,14 +487,14 @@ h1.navbar-brand {
 }
 
 .fancybox-next span {
-    background: url("../img/right.png") no-repeat scroll center center #9A12B3;
+    background: url("../img/icons/right.png") no-repeat scroll center center #9A12B3;
     height: 50px;
     width: 50px;
     right: 0;
 }
 
 .fancybox-prev span {
-    background: url("../img/left.png") no-repeat scroll center center #9A12B3;
+    background: url("../img/icons/left.png") no-repeat scroll center center #9A12B3;
     height: 50px;
     width: 50px;
     left: 0;
@@ -510,7 +510,7 @@ h1.navbar-brand {
 }
 
 #about .overlay {
-    background: url("../img/slide_bg.png") repeat scroll 0 0 transparent;
+    background: url("../img/icons/slide_bg.png") repeat scroll 0 0 transparent;
     padding: 100px 0 120px;
 }
 
@@ -936,7 +936,7 @@ ul.external li a:hover {
 }
 
 #social .overlay {
-    background: url("../img/slide_bg.png") repeat scroll 0 0 transparent;
+    background: url("../img/icons/slide_bg.png") repeat scroll 0 0 transparent;
     padding: 100px 0 120px;
 }
 
